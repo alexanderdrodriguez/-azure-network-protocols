@@ -67,10 +67,12 @@ Section 2: Head to “Virtual machines” in Azure -> Click “VM1” -> Copy th
 <img src="https://i.gyazo.com/852f334ba783d73bf4dc43cd06df565e.png">
 <img src="https://i.gyazo.com/f9cedc7fc40ff4d114cf559ed753dfdc.png">
 <p>Section 3: In wireshark type and enter “ssh” -> In command prompt type and enter ssh and then VM2’s private ip address (example: ssh 10.0.0.5) -> Type and enter “yes” -> Enter in VM2’s password (Note: You won’t be able to see the text you’re typing but type it normally then press enter as usual) -> Observe what’s popped up in Wireshark then enter the commands username, pwd, and lastly the command exit</p>
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://i.gyazo.com/f5c573528ef737485a7de5bd28ad87c6.png">
+<img src="https://i.gyazo.com/09cfede832acc205b4c95bd59a9d0420.png">
+<img src="https://i.gyazo.com/f11ebad8280d57df71954ef39999d338.png">
+<img src="https://i.gyazo.com/6e652ded68acc71e453a69926d0fa284.png">
+<img src="https://i.gyazo.com/c833ccc66c5e374f88e3e8f76bc496b2.png">
+<p>Section 4: In wireshark type and enter “dhcp” -> Type ipconfig /renew into command prompt -> Observe the changes in Wireshark</p>
 <img src="">
 <img src="">
 <img src="">
