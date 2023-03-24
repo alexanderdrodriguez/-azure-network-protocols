@@ -76,8 +76,9 @@ Section 2: Head to “Virtual machines” in Azure -> Click “VM1” -> Copy th
 <img src="https://i.gyazo.com/284c7fe6a0ff49fa04316386c434c1ee.png">
 <img src="https://i.gyazo.com/603ceabfab73726124788941f9bbff17.png">
 <p>Section 5: In wireshark type and enter “dns” -> Type nslookup www.google.com into command prompt -> Then type nslookup www.disney.com -> Observe the changes in Wireshark</p>
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<br />
+<img src="https://i.gyazo.com/ed8cc3002335d6a0f49a77ee4f81c9e5.png">
+<img src="https://i.gyazo.com/709a9ad5b3eceab70bb8c6a3904ca82d.png">
+<img src="https://i.gyazo.com/48cd847e068069fa5e588a08ee4567a5.png">
+<p>Section 6: In wireshark type and enter “tcp.port == 3389” (Note: The traffic will be nonstop bpdating in Wireshark, the reason for this is that “tcp.port == 3389” traffics only remote desktop protocols.)</p>
+<img src="https://i.gyazo.com/7cf25e30ca43cd83d47a43e69e6a0635.png">]
+<p>Congrats you’ve just completed all of the steps for this Active Diretory configuration project tutorial!</p>
