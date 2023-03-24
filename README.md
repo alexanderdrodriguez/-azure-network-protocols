@@ -73,8 +73,9 @@ Section 2: Head to “Virtual machines” in Azure -> Click “VM1” -> Copy th
 <img src="https://i.gyazo.com/6e652ded68acc71e453a69926d0fa284.png">
 <img src="https://i.gyazo.com/c833ccc66c5e374f88e3e8f76bc496b2.png">
 <p>Section 4: In wireshark type and enter “dhcp” -> Type ipconfig /renew into command prompt -> Observe the changes in Wireshark</p>
-<img src="">
-<img src="">
+<img src="https://i.gyazo.com/284c7fe6a0ff49fa04316386c434c1ee.png">
+<img src="https://i.gyazo.com/603ceabfab73726124788941f9bbff17.png">
+<p>Section 5: In wireshark type and enter “dns” -> Type nslookup www.google.com into command prompt -> Then type nslookup www.disney.com -> Observe the changes in Wireshark</p>
 <img src="">
 <img src="">
 <img src="">
