@@ -3,7 +3,7 @@
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, we observe various network traffic protocols to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -80,5 +80,5 @@ Section 2: Head to “Virtual machines” in Azure -> Click “VM1” -> Copy th
 <img src="https://i.gyazo.com/709a9ad5b3eceab70bb8c6a3904ca82d.png">
 <img src="https://i.gyazo.com/48cd847e068069fa5e588a08ee4567a5.png">
 <p>Section 6: In wireshark type and enter “tcp.port == 3389” (Note: The traffic will be nonstop bpdating in Wireshark, the reason for this is that “tcp.port == 3389” traffics only remote desktop protocols.)</p>
-<img src="https://i.gyazo.com/7cf25e30ca43cd83d47a43e69e6a0635.png">]
-<p>Congrats you’ve just completed all of the steps for this Active Diretory configuration project tutorial!</p>
+<img src="https://i.gyazo.com/7cf25e30ca43cd83d47a43e69e6a0635.png">
+<p>Congrats you’ve just completed all of the steps for this network traffic protocol tutorial!</p>
