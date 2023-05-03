@@ -7,7 +7,7 @@ In this tutorial, we will observe various network traffic protocols to and from 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Lab Tutorial: Inspecting Traffic And Network Security Groups (NSGs) With Microsoft Azure VMs](https://youtu.be/Skud9OEovqw)
+- ### [YouTube: Lab Tutorial: Inspecting Traffic And Network Security Groups (NSGs) With Microsoft Azure VMs](https://youtu.be/xpSPjCKVdW8)
 
 <h2>Environments and Technologies Used</h2>
 
